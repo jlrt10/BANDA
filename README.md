@@ -7,4 +7,5 @@
 ## Diagrama de secuencias
 ![](Imagenes/Diagrama%20de%20secuencias.jpg)
 <br>
-**El decorador se convirtio en...**
+<br>
+**El decorador se convirtio en "Bridge"**
